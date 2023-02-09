@@ -9,7 +9,7 @@ After completing my first ever CTF I realised I had picked up a lot of tips and 
 
 When reverse image searching, perhaps to find where a photo was taken, try picking out distincive features and cropping the image when searching to only that feature. This helps focus the results. 
 
-# Cyptography 
+# Cryptography 
 
 ## CyberChef
 
